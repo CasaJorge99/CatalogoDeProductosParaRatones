@@ -7,7 +7,7 @@ function mascaraObloqueo() {
         //AQUI SOLO CAMBIA LA IMG Y COLOCA EL ORDEN DE TUS CARPETAS PARA QUE FUNCIONE BIEN
         //Nota: Si Tienes Tu Carpeta De Img En Una Carpeta Public Puede Causar Fallas De Que No Agarre La Img Solo Saca La Carpeta Img De La Carpeta Publica Y Listo
         //https://luisalbertoattack1.github.io/Grupo-San-Miguel/public/Img/LogosFerreteriaGSM/LogoSnFondo.png
-        message: ' <img src="../../../../MenuDeVenenoParaRatones/public/Img/ImgLogos/LogoQueSiempreSeOcupa.PNG" class="img-fluid" width="300" height="300">',
+        message: ' <img src="https://casajorge99.github.io/CatalogoDeProductosParaRatones/MenuDeVenenoParaRatones/public/Img/ImgLogos/LogoQueSiempreSeOcupa.PNG" class="img-fluid" width="300" height="300">',
         css: {
             border: 'none',
             // padding: '15px', 
