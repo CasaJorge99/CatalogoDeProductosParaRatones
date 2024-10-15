@@ -1,0 +1,129 @@
+.TipoDeLetraGEneral{
+    font-family: Arial;
+}
+.GrosorDeLetra{
+    font-size: 1.8rem;
+    font-family: Arial Black;
+}
+.GrosorDeLetra1{
+    font-size: 3.5rem;
+    font-family: Arial Black;
+}
+.GrosorDeLetra2{
+    font-size: 5rem;
+    font-family: Arial Black;
+}
+.GrosorDeLetraDivNegro{
+    font-size: 1.2rem;
+    font-family: Arial Black;
+}
+.ColorDeDiv{
+    background-color: #000000;
+}
+.ColorDeDiv1{
+    background-color: #e8e120;
+}
+.ColorDeCardDivSucursales{
+    background-color: #ffffff;
+    backdrop-filter: blur(20px);
+
+}
+.card-efecto{
+    color: #000000;
+    transition-duration: 1s;
+    border-radius: 1rem;
+}
+
+.card-efecto:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+    color: #000000;
+    border-top-left-radius: 1.1rem;
+    border-top-right-radius: 0.4rem;
+    border-bottom-right-radius: 1.1rem;
+    border-bottom-left-radius: 0.4rem;
+}
+.EfectoDeBotonesNav{
+    color: #000000;
+    transition-duration: 1s;
+
+    border: none;
+}
+
+.EfectoDeBotonesNav:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+    color: #000000;
+
+    border-top-left-radius: 1.1rem;
+    border-top-right-radius: 0.4rem;
+    border-bottom-right-radius: 1.1rem;
+    border-bottom-left-radius: 0.4rem;
+}
+.colorDeCardSegundoDiv{
+    transition-duration: 1s; 
+    /* background: #fafafa10;
+    backdrop-filter: blur(0.4rem); */
+    background: linear-gradient(135deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 20px;
+   
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+.colorDeCardSegundoDiv:hover {
+    transform: scale(1.1);
+    transition-duration: 1s;
+}
+.EfectoDeSucursales{
+    transition-duration: 1s;
+    border-radius: 1rem;
+    border-radius: 1rem;
+    border: none;
+    
+}
+
+.EfectoDeSucursales:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+    border: 1px solid #F8E737;
+    border-top-left-radius: 1.1rem;
+    border-top-right-radius: 0.4rem;
+    border-bottom-right-radius: 1.1rem;
+    border-bottom-left-radius: 0.4rem;
+}
+.EfectoDePuestos{
+    transition-duration: 1s;
+    border-radius: 1rem;
+    border: none;
+}
+
+.EfectoDePuestos:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+
+    border-top-left-radius: 1.1rem;
+    border-top-right-radius: 0.4rem;
+    border-bottom-right-radius: 1.1rem;
+    border-bottom-left-radius: 0.4rem;
+}
+.color-boton{
+    background-color: #9f5fc3;
+}
+.TamDeImgDeFooter{
+    width: 7rem;
+    height: 7rem;
+}
+
+/*Estilos De Footer*/
+.TamDeLetra{
+    font-size: 13px;
+    }
+    .TamDeLetras{
+        font-size: 14px;
+    }
+
+.ColorDeFooter{
+    background-color: #e9ecef;
+}
+/*Estilos De Footer*/
